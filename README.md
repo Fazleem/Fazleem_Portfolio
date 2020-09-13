@@ -9,3 +9,5 @@ This is the Hello World program for the Computer Vision. MNIST ("Modified Nation
 ### Goal
 
 The goal of the project is to correctly identify digits from a dataset of tens of thousands of handwritten images
+
+![knn error plot]([https://github.com/Fazleem/Fazleem_Portfolio/blob/master/images/error_plot_knn.png])
